@@ -20,7 +20,7 @@ Starter theme for developing comprehensive theme on Open edX
 
 4. Clone this repo
 
-		$ git clone https://github.com/dehamzah/starter-theme-openedx.git starter-theme
+		$ git clone https://github.com/zineschen/edx-theme.git starter-theme
 
 5. Make some changes in `lms.env.json` located in `/edx/app/edxapp/`. Then change some variables to this:
 
